@@ -21,7 +21,7 @@ https://www.kaggle.com/jessemostipak/hotel-booking-demand
 3) Used Machin elearning models to predict the likelihood of cancellation
 4) Used the predictions of the best model to estimate the demand
 
-# Findingd and Recommendations
+# Findings and Recommendations
 
 Studying the results of best model and the inferences we got using the feature importance values, we recommend the following to hotel business owners.
 
